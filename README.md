@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzammil Irshad  
+# 👋 Hi, I'm Muhammad Muzammil Irshad  
 
 
 💻 *Front-End Developer* | 🤖 *Machine Learning Researcher focused on Cyber Security* <br>
