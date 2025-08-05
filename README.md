@@ -23,18 +23,19 @@ Git & GitHub <br>
 VS Code <br>
 Jupyter Notebook  
 
+---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-muzammil-irshad&show_icons=true&theme=radical) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-muzammil-irshad&layout=compact&theme=radical) 
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) <br>
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/yourprofile) <br>
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-muzammil-irshad-05b863333)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:cornerofcodes00@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white)](https://www.tiktok.com/@cornerofcodes)
 
 ---
