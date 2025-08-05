@@ -31,7 +31,6 @@ Jupyter Notebook
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-muzammil-irshad&show_icons=true&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-muzammil-irshad&layout=compact&theme=radical)
 
 ---
 
