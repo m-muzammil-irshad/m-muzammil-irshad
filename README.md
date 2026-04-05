@@ -29,7 +29,7 @@
 <br/>
 
 <!-- Portfolio Button -->
-[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-C9A84C?style=for-the-badge&logoColor=white)](https://m-muzammil-irshad.github.io/My-Portfolio/)
+<a href="https://m-muzammil-irshad.github.io/My-Portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-C9A84C?style=for-the-badge&logoColor=white"/></a>
 
 </div>
 
@@ -110,7 +110,7 @@
 <tr>
 <td align="center" width="100%">
 <br/>
-<a href="https://m-muzammil-irshad.github.io/My-Portfolio/">
+<a href="https://m-muzammil-irshad.github.io/My-Portfolio/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/🚀_Muhammad_Muzammil_Irshad-Portfolio-C9A84C?style=for-the-badge&logoColor=white"/>
 </a>
 <br/><br/>
