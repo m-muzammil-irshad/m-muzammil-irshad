@@ -26,6 +26,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cornerofcodes00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-muzammil-irshad)
 
+<br/>
+
+<!-- Portfolio Button -->
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-C9A84C?style=for-the-badge&logoColor=white)](https://m-muzammil-irshad.github.io/My-Portfolio/)
+
 </div>
 
 ---
@@ -91,8 +96,31 @@
 
 <div align="center">
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=m-muzammil-irshad&theme=tokyonight&hide_border=true&ring=C9A84C&fire=8B5CF6&currStreakLabel=C9A84C)](https://github.com/m-muzammil-irshad)
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+<br/>
+<a href="https://m-muzammil-irshad.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/🚀_Muhammad_Muzammil_Irshad-Portfolio-C9A84C?style=for-the-badge&logoColor=white"/>
+</a>
+<br/><br/>
+<b>Projects · Research · Experience · Contact</b>
+<br/>
+<sub>Click above to explore my full portfolio</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
