@@ -10,13 +10,13 @@
 # Muhammad Muzammil Irshad
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;AI+%26+Cybersecurity+Researcher;Computer+Vision+Explorer;NLP+%26+Deep+Learning+Enthusiast" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Explorer;Object+Detection+%26+Tracking;Image+Segmentation+Specialist" alt="Typing SVG"/>
 
 <br/>
 
 <!-- Meta Pills -->
 ![ML Engineer](https://img.shields.io/badge/ML_Engineer-C9A84C?style=flat-square&logoColor=white)
-![Cybersecurity Researcher](https://img.shields.io/badge/Cybersecurity_Researcher-10B981?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-10B981?style=flat-square&logoColor=white)
 ![Pakistan](https://img.shields.io/badge/Pakistan-8B5CF6?style=flat-square&logoColor=white)
 
 <br/>
@@ -35,16 +35,16 @@
 
 ---
 
-## 🧠 About Me
+## 👁️ About Me
 
 <table>
 <tr>
-<td width="50%">🔐 Building <b>ML-powered Cybersecurity</b> — IDS, anomaly detection & malware classification</td>
-<td width="50%">🖼️ <b>Computer Vision</b> with CNNs and image-based deep learning pipelines</td>
+<td width="50%">🧠 Designing <b>deep learning pipelines</b> using CNNs — from raw image input to intelligent predictions</td>
+<td width="50%">🎯 Building <b>Object Detection & Tracking</b> systems with YOLO for real-time visual intelligence</td>
 </tr>
 <tr>
-<td width="50%">🗣️ Exploring <b>NLP</b> — transformers, text classification & log analysis</td>
-<td width="50%">🌱 Expanding into <b>Deep Learning</b> across multi-domain architectures</td>
+<td width="50%">✂️ Applying <b>Image Segmentation</b> techniques to isolate, classify, and understand visual scenes</td>
+<td width="50%">🩻 Working with <b>real-world visual data</b> — from medical imaging to safety-critical environments</td>
 </tr>
 </table>
 
@@ -62,18 +62,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🖼️ Computer Vision & NLP
+### 👁️ Computer Vision & Deep Learning
 ![CNN](https://img.shields.io/badge/CNN-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RNN](https://img.shields.io/badge/RNN-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Text Classification](https://img.shields.io/badge/Text_Classification-8B5CF6?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white)
-
-### 🔐 Cybersecurity ML
-![Email Classifier](https://img.shields.io/badge/Email_Classifier-EC4899?style=for-the-badge&logoColor=white)
-![News Classifier](https://img.shields.io/badge/News_Classifier-EC4899?style=for-the-badge&logoColor=white)
-![Network Intrusion Detection](https://img.shields.io/badge/Network_Intrusion_Detection-EC4899?style=for-the-badge&logoColor=white)
-![Insider Threat Detection](https://img.shields.io/badge/Insider_Threat_Detection-EC4899?style=for-the-badge&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object_Detection-8B5CF6?style=for-the-badge&logoColor=white)
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Tools & Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -81,14 +75,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🔬 Research Focus
-
-> 📄 **Research Paper** &nbsp;&nbsp; ![Ongoing](https://img.shields.io/badge/Ongoing-10B981?style=flat-square&logoColor=white)
->
-> *"Adaptive and Incremental Learning for Behavioral Insider Threat Detection under Concept Drift in Enterprise Environments"*
 
 ---
 
@@ -128,7 +114,7 @@
 
 <div align="center">
 
-*"The goal of AI in cybersecurity is not to replace human intuition — it's to* ***amplify*** *it."*
+*"Computer Vision is not about teaching machines to see — it's about teaching them to* ***understand.***"*
 
 <br/>
 
