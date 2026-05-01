@@ -78,6 +78,35 @@
 
 ---
 
+## 🚀 ML Journey
+
+> Every expert was once a beginner. Here's where it started.
+
+<table>
+<tr>
+<th>Phase</th>
+<th>Focus</th>
+<th>What I Built</th>
+</tr>
+<tr>
+<td>📌 <b>Foundation</b></td>
+<td>Classical ML & NLP</td>
+<td>Email Spam Classifier, News Category Classifier — learning the core of ML pipelines</td>
+</tr>
+<tr>
+<td>📌 <b>Transition</b></td>
+<td>Deep Learning</td>
+<td>Moved from text to images — started working with CNNs and visual data</td>
+</tr>
+<tr>
+<td>🎯 <b>Current Focus</b></td>
+<td>Computer Vision</td>
+<td>Object Detection, Image Segmentation, Real-world Visual AI with YOLO & CNNs</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -114,7 +143,7 @@
 
 <div align="center">
 
-Computer Vision is not about teaching machines to see, it's about teaching them to ***understand***.
+*"Computer Vision is not about teaching machines to see — it's about teaching them to* ***understand.***"*
 
 <br/>
 
