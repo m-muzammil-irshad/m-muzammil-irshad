@@ -80,28 +80,42 @@
 
 ## 🚀 ML Journey
 
-> Every expert was once a beginner. Here's where it started.
+> Every expert was once a beginner — this is how the path unfolded.
 
 <table>
 <tr>
-<th>Phase</th>
-<th>Focus</th>
-<th>What I Built</th>
+<td width="8%" align="center">📌</td>
+<td width="20%"><b>Phase 1 — Foundation</b></td>
+<td width="72%">
+Started with <b>Classical ML & NLP</b> — built text-based classifiers to understand the core of data preprocessing, feature engineering, and model evaluation.<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white)
+</td>
 </tr>
 <tr>
-<td>📌 <b>Foundation</b></td>
-<td>Classical ML & NLP</td>
-<td>Email Spam Classifier, News Category Classifier — learning the core of ML pipelines</td>
+<td align="center">⚡</td>
+<td><b>Phase 2 — Transition</b></td>
+<td>
+Shifted from text to <b>visual data</b> — dived into Deep Learning with CNNs, applied <b>Transfer Learning</b> with pretrained models to accelerate training, and explored how neural networks perceive images.<br/><br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-10B981?style=flat-square&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-C9A84C?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+</td>
 </tr>
 <tr>
-<td>📌 <b>Transition</b></td>
-<td>Deep Learning</td>
-<td>Moved from text to images — started working with CNNs and visual data</td>
-</tr>
-<tr>
-<td>🎯 <b>Current Focus</b></td>
-<td>Computer Vision</td>
-<td>Object Detection, Image Segmentation, Real-world Visual AI with YOLO & CNNs</td>
+<td align="center">🎯</td>
+<td><b>Phase 3 — Current</b> &nbsp; ![Active](https://img.shields.io/badge/Active-10B981?style=flat-square&logoColor=white)</td>
+<td>
+Fully focused on <b>Computer Vision</b> — building real-world systems for object detection, image segmentation, and visual analysis across medical and safety domains.<br/><br/>
+![YOLO](https://img.shields.io/badge/YOLO-10B981?style=flat-square&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object_Detection-8B5CF6?style=flat-square&logoColor=white)
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-C9A84C?style=flat-square&logoColor=white)
+</td>
 </tr>
 </table>
 
