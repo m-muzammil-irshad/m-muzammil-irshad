@@ -63,9 +63,9 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 👁️ Computer Vision & Deep Learning
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Object Detection](https://img.shields.io/badge/Object_Detection-8B5CF6?style=for-the-badge&logoColor=white)
 ![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=for-the-badge&logoColor=white)
 
@@ -88,7 +88,7 @@
 <td width="22%"><b>Phase 1 — Foundation</b></td>
 <td width="70%">
 Started with <b>Classical ML & NLP</b> — built text-based classifiers to understand the core of data preprocessing, feature engineering, and model evaluation.<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
 </td>
 </tr>
 <tr>
@@ -96,7 +96,8 @@ Started with <b>Classical ML & NLP</b> — built text-based classifiers to under
 <td><b>Phase 2 — Transition</b></td>
 <td>
 Shifted from text to <b>visual data</b> — dived into Deep Learning with CNNs, applied <b>Transfer Learning</b> with pretrained models to accelerate training, and explored how neural networks perceive images.<br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Transfer_Learning-C9A84C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-C9A84C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>  <img src="https://img.shields.io/badge/Transfer_Learning-C9A84C?style=flat-square&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -104,7 +105,7 @@ Shifted from text to <b>visual data</b> — dived into Deep Learning with CNNs, 
 <td><b>Phase 3 — Current</b> &nbsp; <img src="https://img.shields.io/badge/Active-10B981?style=flat-square&logoColor=white"/></td>
 <td>
 Fully focused on <b>Computer Vision</b> — building real-world systems for object detection, image segmentation, and visual analysis across medical and safety domains.<br/><br/>
-<img src="https://img.shields.io/badge/YOLO-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Object_Detection-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Deep_Learning-C9A84C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Object_Detection-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=flat-square&logoColor=white"/> 
 </td>
 </tr>
 </table>
