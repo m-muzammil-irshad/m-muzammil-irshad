@@ -87,7 +87,7 @@
 <td width="8%" align="center">📌</td>
 <td width="22%"><b>Phase 1 — Foundation</b></td>
 <td width="70%">
-Started with <b>Classical ML & NLP</b> — built text-based classifiers to understand the core of data preprocessing, feature engineering, and model evaluation.<br/><br/>
+Started with <b>Classical ML models</b> — built traditional classifiers to understand the core of data preprocessing, feature engineering, and model evaluation.<br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
 </td>
 </tr>
