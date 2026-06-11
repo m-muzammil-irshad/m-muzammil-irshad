@@ -148,7 +148,7 @@ Fully focused on <b>Computer Vision</b> — building real-world systems for obje
 
 <div align="center">
 
-*"Computer Vision is not about teaching machines to see — it's about teaching them to* ***understand.***"*
+*"Computer Vision is not about teaching machines to see — it's about teaching them to* ***understand.***"
 
 <br/>
 
