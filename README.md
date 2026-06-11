@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&fontColor=ffffff&fontSize=0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&fontColor=ffffff&fontSize=0&animation=fadeIn" width="100%"/>
 
 <!-- Monogram -->
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1000&color=C9A84C&center=true&vCenter=true&width=200&height=60&lines=MMI" alt="MMI"/>
@@ -39,48 +39,12 @@
 
 <table>
 <tr>
-<td width="50%">
-
-```python
-{
-  "focus":    "Deep Learning Pipelines",
-  "using":    "CNNs — raw image → predictions"
-}
-```
-
-</td>
-<td width="50%">
-
-```python
-{
-  "focus":    "Object Detection & Tracking",
-  "using":    "YOLO — real-time visual intelligence"
-}
-```
-
-</td>
+<td width="50%">🧠 Designing <b>deep learning pipelines</b> using CNNs — from raw image input to intelligent predictions</td>
+<td width="50%">🎯 Building <b>Object Detection & Tracking</b> systems with YOLO for real-time visual intelligence</td>
 </tr>
 <tr>
-<td width="50%">
-
-```python
-{
-  "focus":    "Image Segmentation",
-  "using":    "Isolate, classify, understand scenes"
-}
-```
-
-</td>
-<td width="50%">
-
-```python
-{
-  "focus":    "Real-World Visual Data",
-  "using":    "Medical imaging + safety environments"
-}
-```
-
-</td>
+<td width="50%">✂️ Applying <b>Image Segmentation</b> techniques to isolate, classify, and understand visual scenes</td>
+<td width="50%">🩻 Working with <b>real-world visual data</b> — from medical imaging to safety-critical environments</td>
 </tr>
 </table>
 
@@ -124,7 +88,7 @@
 <td width="22%"><b>Phase 1 — Foundation</b></td>
 <td width="70%">
 Started with <b>Classical ML models</b> — built traditional classifiers to understand the core of data preprocessing, feature engineering, and model evaluation.<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
 </td>
 </tr>
 <tr>
@@ -133,7 +97,7 @@ Started with <b>Classical ML models</b> — built traditional classifiers to und
 <td>
 Shifted from text to <b>visual data</b> — dived into Deep Learning with CNNs, applied <b>Transfer Learning</b> with pretrained models to accelerate training, and explored how neural networks perceive images.<br/><br/>
 <img src="https://img.shields.io/badge/Deep_Learning-C9A84C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Transfer_Learning-C9A84C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>  <img src="https://img.shields.io/badge/Transfer_Learning-C9A84C?style=flat-square&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -141,7 +105,7 @@ Shifted from text to <b>visual data</b> — dived into Deep Learning with CNNs, 
 <td><b>Phase 3 — Current</b> &nbsp; <img src="https://img.shields.io/badge/Active-10B981?style=flat-square&logoColor=white"/></td>
 <td>
 Fully focused on <b>Computer Vision</b> — building real-world systems for object detection, image segmentation, and visual analysis across medical and safety domains.<br/><br/>
-<img src="https://img.shields.io/badge/YOLO-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Object_Detection-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-10B981?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Object_Detection-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Image_Segmentation-8B5CF6?style=flat-square&logoColor=white"/> 
 </td>
 </tr>
 </table>
@@ -152,15 +116,7 @@ Fully focused on <b>Computer Vision</b> — building real-world systems for obje
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-muzammil-irshad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=10B981"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-muzammil-irshad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A84C"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=m-muzammil-irshad&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A84C&fire=8B5CF6&currStreakLabel=C9A84C)](https://github.com/m-muzammil-irshad)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m-muzammil-irshad&theme=tokyonight&hide_border=true&ring=C9A84C&fire=8B5CF6&currStreakLabel=C9A84C)](https://github.com/m-muzammil-irshad)
 
 </div>
 
@@ -198,6 +154,6 @@ Fully focused on <b>Computer Vision</b> — building real-world systems for obje
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m-muzammil-irshad&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
 
 </div>
